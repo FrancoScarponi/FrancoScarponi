@@ -1,6 +1,6 @@
 ## Hola, soy Franco <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-<h3 font-size="20" align="center">Un estudiante y desarrollador FullStack de Argentina</h3>
+### Un estudiante y desarrollador FullStack de Argentina
 
 ### Sobre mí:
 🎓 Estudiante de Ingeniería en Sistemas en la UAI (4to año).  

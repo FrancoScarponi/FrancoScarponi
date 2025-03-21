@@ -32,7 +32,7 @@
 
 <h3 align="center">Maquetacion</h3>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+[![](https://visitcount.itsvg.in/api?id=Franco Scarponi&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **FrancoScarponi/FrancoScarponi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

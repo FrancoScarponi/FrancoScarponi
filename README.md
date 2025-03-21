@@ -1,4 +1,6 @@
-## Hola, soy Franco <img align="right" width="256px" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+## Hola, soy Franco 
+<h1 align="center">Hi, I'm Rajarshi Kundu<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
 
 ### Sobre mí:

@@ -4,7 +4,7 @@
 
 ### Sobre mí:
 🎓 Estudiante de Ingeniería en Sistemas en la UAI (cursando 4to año).  
-💻 Desarrollador FullStack.  
+💻 Desarrollador Web FullStack.  
 🛠️ Desarrollando sistemas de autenticación, roles y permisos con Laravel (API) y React (frontend) 
 
 ---
